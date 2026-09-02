@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "A propos du site de test Next App Router",
-  description: "Page temoin du fixture Next App Router : elle est saine et doit rester rigoureusement intacte apres l'application de la correction automatique.",
+  title: "À propos de Next App : le site de test Next App Router complet",
+  description: "Découvrez next-app, notre site de test Next App Router : une page témoin saine, stable et fidèle, idéale pour valider et tester vos corrections.",
   alternates: { canonical: "https://noyaru-stack-next-app.netlify.app/a-propos" },
   openGraph: {
     type: "website",
