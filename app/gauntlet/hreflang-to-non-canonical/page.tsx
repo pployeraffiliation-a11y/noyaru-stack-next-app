@@ -11,7 +11,7 @@ export const metadata = {
     type: 'article',
     title: 'Page de test unique pour le parcours d\'obstacles Noyaru - Double Slash',
     description: 'Page de test spécifique pour le parcours d\'obstacles Noyaru, abordant un point précis pour le crawl.',
-    url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-to-non-canonical',
+    url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/canonical-http',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
   twitter: {
