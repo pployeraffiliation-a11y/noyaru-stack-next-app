@@ -5,7 +5,7 @@ export const metadata = {
   description: 'Page du parcours d\'obstacles Noyaru : elle présente une anomalie spécifique pour le crawl.',
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid',
-    languages: { 'fr_FR': 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid' },
+    languages: { 'fr-FR': 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid' },
   },
   openGraph: {
     type: 'article',
