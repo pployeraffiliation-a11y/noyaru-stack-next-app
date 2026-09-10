@@ -1,7 +1,7 @@
 // FAMILLE VISEE : hreflang_annotation_invalid
 // code de langue mal forme (soulignement au lieu du tiret).
 export const metadata = {
-  title: 'Page de test du parcours d\'obstacles Noyaru',
+  title: 'Page de test du parcours d\'obstacles Noyaru - Hreflang Invalid',
   description: 'Page du parcours d\'obstacles Noyaru : cette page présente une anomalie spécifique pour le crawl.',
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid',
@@ -9,14 +9,14 @@ export const metadata = {
   },
   openGraph: {
     type: 'article',
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Page de test du parcours d\'obstacles Noyaru - Hreflang Invalid',
     description: 'Page du parcours d\'obstacles Noyaru : cette page présente une anomalie spécifique pour le crawl.',
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Page de test du parcours d\'obstacles Noyaru - Hreflang Invalid',
     description: 'Page du parcours d\'obstacles Noyaru : cette page présente une anomalie spécifique pour le crawl.',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
