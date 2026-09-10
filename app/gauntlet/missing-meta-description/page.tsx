@@ -18,6 +18,8 @@ export const metadata = {
     title: 'Page de test du parcours d\'obstacles Noyaru',
     description: 'Découvrez le parcours d\'obstacles Noyaru, un défi unique et amusant pour tous les niveaux.',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
+    'twitter:description': 'Découvrez le parcours d\'obstacles Noyaru, un défi unique et amusant pour tous les niveaux.',
+    'twitter:image': 'https://noyaru-stack-next-app.netlify.app/og.png',
   },
 };
 
