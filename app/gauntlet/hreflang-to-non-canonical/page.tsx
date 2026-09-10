@@ -4,6 +4,7 @@ export const metadata = {
   title: 'Page de test du parcours d\'obstacles Noyaru - Double Slash',
   description: 'Page du parcours d\'obstacles Noyaru : cette page présente un point spécifique à corriger pour le bon fonctionnement du crawl.',
   alternates: {
+    'x-default': 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-to-non-canonical',
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-to-non-canonical',
     languages: { 'fr': 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-to-non-canonical', 'en': 'https://noyaru-stack-next-app.netlify.app/gauntlet/canonical-http' },
   },
