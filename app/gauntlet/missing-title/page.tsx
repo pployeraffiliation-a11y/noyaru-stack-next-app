@@ -9,6 +9,7 @@ export const metadata = {
     type: 'article',
     title: 'Parcours d\'obstacles - Noyaru',
     description: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.',
+    description: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.',
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/missing-title',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
