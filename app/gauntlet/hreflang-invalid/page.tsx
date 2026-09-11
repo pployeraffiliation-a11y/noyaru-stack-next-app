@@ -6,6 +6,7 @@ export const metadata = {
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid',
     languages: { 'fr-FR': 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid' },
+    'x-default': 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid',
   },
   openGraph: {
     type: 'article',
