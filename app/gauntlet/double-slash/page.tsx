@@ -11,13 +11,13 @@ export const metadata = {
     title: 'Double Slash - Page de test du parcours d\'obstacles Noyaru',
     description: 'Page de test du parcours d\'obstacles Noyaru, illustrant un cas spécifique pour le crawl.',
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/double-slash',
-    images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
+    images: [{ src: 'https://noyaru-stack-next-app.netlify.app/og.png', alt: 'Image de la page de test du parcours d obstacles Noyaru' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Double Slash - Page de test du parcours d\'obstacles Noyaru',
     description: 'Page de test du parcours d\'obstacles Noyaru, illustrant un cas spécifique pour le crawl.',
-    images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
+    images: [{ src: 'https://noyaru-stack-next-app.netlify.app/og.png', alt: 'Image de la page de test du parcours d obstacles Noyaru' }],
   },
 };
 
