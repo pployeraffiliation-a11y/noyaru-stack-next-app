@@ -10,7 +10,7 @@ export default function sitemap() {
   const base = "https://noyaru-stack-next-app.netlify.app";
   return [
     { url: base + "/" },
-    { url: base + "/blog" },
+    { url: base + "/blog/" },
     { url: base + "/a-propos" },
     { url: base + "/gauntlet" },
     { url: base + "/gauntlet/double-slash" },
