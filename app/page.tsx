@@ -1,4 +1,5 @@
 export const metadata = {
+  lang: 'fr',
   title: "Accueil du site de test Next App Router",
   description: "Site fixture Next.js App Router : les valeurs de tete sont un export metadata, la cinquieme facon d'ecrire la meme chose parmi les neuf stacks.",
   alternates: {
