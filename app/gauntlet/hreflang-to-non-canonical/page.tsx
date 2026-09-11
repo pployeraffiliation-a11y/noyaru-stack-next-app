@@ -11,7 +11,7 @@ export const metadata = {
     type: 'article',
     title: 'Page de test unique du parcours d\'obstacles Noyaru',
     description: 'Page du parcours d\'obstacles Noyaru : cette page présente un point spécifique à corriger pour le crawl.',
-    url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-to-non-canonical',
+    url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/canonical-http',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
   twitter: {
