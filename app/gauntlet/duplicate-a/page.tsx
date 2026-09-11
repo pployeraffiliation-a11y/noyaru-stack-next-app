@@ -11,13 +11,13 @@ export const metadata = {
     title: 'Page de test du parcours d\'obstacles Noyaru - Duplicate A',
     description: 'Page du parcours d\'obstacles : elle est correcte mais doit être unique pour éviter les doublons.',
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/duplicate-a',
-    images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
+    images: [{ src: 'https://noyaru-stack-next-app.netlify.app/og.png', alt: 'Image du parcours d obstacles Noyaru' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Page de test du parcours d\'obstacles Noyaru - Duplicate A',
     description: 'Page du parcours d\'obstacles : elle est correcte mais doit être unique pour éviter les doublons.',
-    images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
+    images: [{ src: 'https://noyaru-stack-next-app.netlify.app/og.png', alt: 'Image du parcours d obstacles Noyaru' }],
   },
 };
 
