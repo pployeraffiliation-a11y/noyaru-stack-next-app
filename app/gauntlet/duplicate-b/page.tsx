@@ -1,21 +1,21 @@
 // FAMILLE VISEE : duplicate_titles + duplicate_meta_descriptions
 // jumelle de duplicate-a.
 export const metadata = {
-  title: 'Deux pages qui portent exactement le meme titre pour le test',
+  title: 'Page de test du parcours d\'obstacles Noyaru',
   description: 'Page du parcours d\'obstacles : cette page sert à provoquer une anomalie spécifique.',
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/duplicate-b',
   },
   openGraph: {
     type: 'article',
-    title: 'Deux pages qui portent exactement le meme titre pour le test',
+    title: 'Page de test du parcours d\'obstacles Noyaru',
     description: 'Page du parcours d\'obstacles : cette page sert à provoquer une anomalie spécifique.',
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/duplicate-b',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Deux pages qui portent exactement le meme titre pour le test',
+    title: 'Page de test du parcours d\'obstacles Noyaru',
     description: 'Page du parcours d\'obstacles : cette page sert à provoquer une anomalie spécifique.',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
