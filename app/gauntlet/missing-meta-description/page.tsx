@@ -7,6 +7,7 @@ export const metadata = {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/missing-meta-description',
   },
   openGraph: {
+    description: 'Découvrez le parcours d\'obstacles Noyaru, une expérience unique et captivante.',
     type: 'article',
     title: 'Page de test du parcours d\'obstacles Noyaru',
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/missing-meta-description',
