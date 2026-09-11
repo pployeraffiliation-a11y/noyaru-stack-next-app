@@ -3,10 +3,6 @@ export const metadata = {
   description: "Site fixture Next.js App Router : les valeurs de tete sont un export metadata, la cinquieme facon d'ecrire la meme chose parmi les neuf stacks.",
   alternates: {
     canonical: "https://noyaru-stack-next-app.netlify.app/",
-    // DEFAUT INJECTE (famille served_html_lang_mismatch) : le hreflang auto-referent dit
-    // anglais, le layout racine sert lang="fr". Sur un export statique sans segment de
-    // langue, ce layout ne peut pas connaitre la route : c est le seul stack des neuf ou
-    // la correction ne peut pas etre faite a la source.
     languages: {
       en: "https://noyaru-stack-next-app.netlify.app/",
       fr: "https://noyaru-stack-next-app.netlify.app/a-propos",
@@ -24,11 +20,9 @@ export const metadata = {
 
 export default function Page() {
   return (
-    <main>
+    <main lang="fr">
       <h1>Accueil</h1>
       <p>Site de test Next App Router.</p>
-      {/* Le parcours d'obstacles doit avoir un lien entrant, sinon ses 25 pages sont
-          orphelines et portent une anomalie de plus que celle qu'elles visent. */}
       <p><a href="/gauntlet/">Parcours d obstacles</a></p>
     </main>
   );
