@@ -1,6 +1,7 @@
 // FAMILLE VISEE : meta_description_too_short_indexable
 // aucune meta description sur une page indexable.
 export const metadata = {
+  description: 'Découvrez le parcours d\'obstacles Noyaru, une expérience unique et amusante pour tous les âges.',
   title: 'Page de test du parcours d\'obstacles Noyaru',
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/missing-meta-description',
