@@ -18,6 +18,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: 'Page de test du parcours d\'obstacles Noyaru',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
+    description: 'Découvrez le parcours d\'obstacles Noyaru, une expérience unique et stimulante.',
   },
 };
 
