@@ -1,7 +1,7 @@
 // FAMILLE VISEE : title_too_long_not_indexable + meta_description_too_long_not_indexable
 // page noindex portant un titre et une description hors plafond.
 export const metadata = {
-  title: 'Un titre volontairement beaucoup trop long pour la fenetre visee par le correcteur, ecrit pour depasser nettement le plafond',
+  title: 'Titre trop long pour la fenêtre visée par le correcteur 2023',
   description: 'Une meta description trop longue pour un crawler, dépassant 160 caractères, sur une page non indexable de Noyaru Stack Next App, 2023.',
   robots: 'noindex, follow',
   alternates: {
