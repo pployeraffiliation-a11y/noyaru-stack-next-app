@@ -2,7 +2,7 @@
 // page noindex portant un titre et une description hors plafond.
 export const metadata = {
   title: 'Un titre volontairement beaucoup trop long pour la fenetre visee par le correcteur, ecrit pour depasser nettement le plafond',
-  description: 'Une meta description volontairement tres longue, ecrite pour depasser le plafond de cent soixante caracteres retenu par le crawler, afin de declencher la famille des descriptions trop longues sur une page non indexable.',
+  description: 'Une meta description trop longue pour un crawler, dépassant 160 caractères, sur une page non indexable de Noyaru Stack Next App, 2023.',
   robots: 'noindex, follow',
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/noindex-long',
