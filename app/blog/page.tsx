@@ -10,7 +10,7 @@ export const metadata = {
     title: "Blog du site de test Next App Router",
     description: "Index du blog du fixture Next App Router.",
     url: "https://noyaru-stack-next-app.netlify.app/blog",
-    images: ["https://noyaru-stack-next-app.netlify.app/og.png"],
+    images: [{ src: "https://noyaru-stack-next-app.netlify.app/og.png", alt: "Image d'aperçu du blog" }],
   },
 };
 
