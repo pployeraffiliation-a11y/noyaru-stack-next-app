@@ -3,6 +3,7 @@
 export const metadata = {
   title: 'Page de test du parcours d\'obstacles Noyaru',
   robots: 'noindex, follow',
+  description: 'Découvrez le parcours d\'obstacles Noyaru, une expérience unique et captivante.',
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/noindex-no-description',
   },
