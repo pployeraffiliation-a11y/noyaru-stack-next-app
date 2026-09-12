@@ -1,21 +1,21 @@
 // FAMILLE VISEE : double_slash_in_url
 // lien interne avec une double barre.
 export const metadata = {
-  title: 'Page de test du parcours d\'obstacles Noyaru',
+  title: 'Page de test du parcours d\'obstacles Noyaru - Double Slash',
   description: 'Page de test pour le parcours d\'obstacles Noyaru, illustrant une anomalie spécifique.',
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/double-slash',
   },
   openGraph: {
     type: 'article',
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Page de test du parcours d\'obstacles Noyaru - Double Slash',
     description: 'Page de test pour le parcours d\'obstacles Noyaru, illustrant une anomalie spécifique.',
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/double-slash',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Page de test du parcours d\'obstacles Noyaru - Double Slash',
     description: 'Page de test pour le parcours d\'obstacles Noyaru, illustrant une anomalie spécifique.',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
