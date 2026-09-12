@@ -14,7 +14,7 @@ export const metadata = {
     title: "A propos du site de test Next App Router",
     description: "Page temoin du fixture Next App Router.",
     url: "https://noyaru-stack-next-app.netlify.app/a-propos",
-    images: ["https://noyaru-stack-next-app.netlify.app/og.png"],
+    images: [{ src: "https://noyaru-stack-next-app.netlify.app/og.png", alt: "Image d'aperçu du site" }],
   },
 };
 
