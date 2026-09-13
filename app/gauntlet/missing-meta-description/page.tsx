@@ -10,6 +10,7 @@ export const metadata = {
     type: 'article',
     title: 'Page de test du parcours d\'obstacles Noyaru',
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/missing-meta-description',
+    description: 'Découvrez le parcours d\'obstacles Noyaru, une expérience unique et captivante.',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
   twitter: {
