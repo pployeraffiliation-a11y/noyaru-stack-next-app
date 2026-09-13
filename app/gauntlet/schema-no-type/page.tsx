@@ -27,7 +27,7 @@ export default function Page() {
       <h1>Parcours d'obstacles</h1>
       <p>Cette page appartient au parcours d'obstacles de la fixture. Elle sert a provoquer UNE anomalie et une seule.</p>
       <p><a href="/">Retour a l accueil</a></p>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: `{"@context":"https://schema.org","name":"Objet sans type declare"}` }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: `{"@context":"https://schema.org","@type":"Thing","name":"Objet sans type declare"}` }} />
     </main>
   );
 }
