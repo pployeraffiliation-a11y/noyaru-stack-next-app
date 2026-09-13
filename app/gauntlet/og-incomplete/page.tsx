@@ -6,7 +6,7 @@ export const metadata = {
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/og-incomplete',
   },
-  openGraph: { title: 'Open Graph incomplet' },
+  openGraph: { title: 'Open Graph incomplet', description: '', type: 'website', url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/og-incomplete', images: ['https://noyaru-stack-next-app.netlify.app/og.png'] },
   twitter: {
     card: 'summary_large_image',
     title: 'Page de test du parcours d\'obstacles Noyaru',
