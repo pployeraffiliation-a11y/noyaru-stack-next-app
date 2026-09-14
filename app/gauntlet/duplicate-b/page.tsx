@@ -9,14 +9,14 @@ export const metadata = {
   openGraph: {
     type: 'article',
     title: 'Deux pages qui portent exactement le meme titre pour le test',
-    description: 'Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons.',
+    description: 'Page du parcours d\'obstacles : cette page sert à illustrer une anomalie SEO spécifique.',
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/duplicate-b',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Deux pages qui portent exactement le meme titre pour le test',
-    description: 'Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons.',
+    description: 'Page du parcours d\'obstacles : cette page sert à illustrer une anomalie SEO spécifique.',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
 };
