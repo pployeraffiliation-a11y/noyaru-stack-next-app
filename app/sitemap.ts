@@ -17,6 +17,6 @@ export default function sitemap() {
     // la publication, donc un `http://` ecrit en dur ne survivrait pas. C'est aussi le cas
     // reel de cette stack, et la raison d'etre du repli IA des familles de sitemap : il n'y a
     // aucun <loc> a remplacer sur place, seulement du code qui les produit.
-    { url: base.replace("https://", "http://") + "/gauntlet/" },
+    { url: base + "/gauntlet/" },
   ];
 }
