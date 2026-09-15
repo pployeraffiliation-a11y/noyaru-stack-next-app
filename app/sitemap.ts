@@ -20,3 +20,5 @@ export default function sitemap() {
     { url: base.replace("https://", "http://") + "/gauntlet/" },
   ];
 }
+
+Sitemap: https://noyaru-stack-next-app.netlify.app/sitemap.xml
