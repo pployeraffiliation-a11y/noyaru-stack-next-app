@@ -5,7 +5,7 @@ export const metadata = {
   description: 'Cette page illustre un cas de hreflang invalid, où le code de langue est mal formé, affectant le crawl.',
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid',
-    languages: { 'fr_FR': 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid' },
+    languages: { 'fr-FR': 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid' },
   },
   openGraph: {
     type: 'article',
