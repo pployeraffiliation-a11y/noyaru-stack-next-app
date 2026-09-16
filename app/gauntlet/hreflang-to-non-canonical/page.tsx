@@ -1,7 +1,7 @@
 // FAMILLE VISEE : hreflang_to_non_canonical
 // hreflang pointant vers une page dont le canonical est ailleurs.
 export const metadata = {
-  title: 'Page de test du parcours d\'obstacles Noyaru',
+  title: 'Hreflang non canonique - Parcours d\'obstacles Noyaru',
   description: 'Cette page illustre un cas de hreflang non canonique, où le hreflang pointe vers une page avec un canonical différent.',
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-to-non-canonical',
@@ -9,14 +9,14 @@ export const metadata = {
   },
   openGraph: {
     type: 'article',
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Hreflang non canonique - Parcours d\'obstacles Noyaru',
     description: 'Cette page illustre un cas de hreflang non canonique, où le hreflang pointe vers une page avec un canonical différent.',
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-to-non-canonical',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Hreflang non canonique - Parcours d\'obstacles Noyaru',
     description: 'Cette page illustre un cas de hreflang non canonique, où le hreflang pointe vers une page avec un canonical différent.',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
