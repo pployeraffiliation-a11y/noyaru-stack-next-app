@@ -1,7 +1,7 @@
 // FAMILLE VISEE : title_too_short
 // titre de moins de 15 caracteres.
 export const metadata = {
-  title: 'Test',
+  title: 'Évaluation complète des performances du produit Noyaru 2023',
   description: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.',
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/title-too-short',
