@@ -23,7 +23,7 @@ export default function sitemap() {
     { url: base + "/gauntlet/duplicate-b" },
     { url: base + "/gauntlet/hreflang-invalid" },
     { url: base + "/gauntlet/hreflang-to-non-canonical" },
-    { url: base + "/gauntlet/link-http" },
+    { url: base.replace('http://', 'https://') + "/gauntlet/link-http" },
     { url: base + "/gauntlet/link-to-redirect" },
     { url: base + "/gauntlet/missing-alt" },
     { url: base + "/gauntlet/missing-h1" },
