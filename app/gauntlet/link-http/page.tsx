@@ -1,21 +1,21 @@
 // FAMILLE VISEE : https_page_has_internal_links_to_http
 // lien interne ecrit en http.
 export const metadata = {
-  title: 'Page de test du parcours d\'obstacles Noyaru',
+  title: 'Lien HTTP - Parcours d\'obstacles Noyaru',
   description: 'Cette page du parcours d\'obstacles Noyaru illustre un cas spécifique de lien HTTP, afin de tester le comportement du crawl.',
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/link-http',
   },
   openGraph: {
     type: 'article',
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Lien HTTP - Parcours d\'obstacles Noyaru',
     description: 'Cette page du parcours d\'obstacles Noyaru illustre un cas spécifique de lien HTTP, afin de tester le comportement du crawl.',
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/link-http',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Lien HTTP - Parcours d\'obstacles Noyaru',
     description: 'Cette page du parcours d\'obstacles Noyaru illustre un cas spécifique de lien HTTP, afin de tester le comportement du crawl.',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
