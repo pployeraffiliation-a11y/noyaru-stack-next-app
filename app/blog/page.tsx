@@ -4,7 +4,7 @@ export const metadata = {
   // LE DEFAUT INJECTE : le slash final. L'hote sert /blog et redirige /blog/ vers lui.
   // Ici la valeur est une propriete d'objet dans un export TypeScript — encore une autre
   // ecriture de la meme chose, et celle qui tourne chez le premier client (PR#1).
-  alternates: { canonical: "https://noyaru-stack-next-app.netlify.app/blog/" },
+  alternates: { canonical: "https://noyaru-stack-next-app.netlify.app/blog" },
   openGraph: {
     type: "website",
     title: "Blog du site de test Next App Router",
