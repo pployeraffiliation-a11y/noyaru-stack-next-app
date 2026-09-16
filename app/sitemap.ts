@@ -10,7 +10,7 @@ export default function sitemap() {
   const base = "https://noyaru-stack-next-app.netlify.app";
   return [
     { url: base + "/" },
-    { url: base + "/blog" },
+    { url: base + "/blog/" },
     { url: base + "/a-propos" },
     // FAMILLE VISEE : sitemap_http_urls_for_https — une entree en clair dans le sitemap d'un
     // site servi en https. Elle est DERIVEE, pas litterale : l'hote est reecrit au moment de
