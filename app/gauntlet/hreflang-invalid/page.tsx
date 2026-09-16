@@ -5,7 +5,7 @@ export const metadata = {
   description: 'Cette page traite des problèmes de hreflang invalid dans le parcours d\'obstacles Noyaru, soulignant un cas spécifique à corriger.',
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid',
-    languages: { 'fr_FR': 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid' },
+    languages: { 'fr-FR': 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid' },
   },
   openGraph: {
     type: 'article',
