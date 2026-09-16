@@ -22,7 +22,7 @@ export default function sitemap() {
     // pas. C'est la cible du canonical de `gauntlet/canonical-404`, et la seule stack ou cette
     // entree vit dans du CODE : la reparation y passe donc par le repli modele, pas par la
     // suppression d'un `<loc>` litteral. C'est exactement le chemin qu'il faut eprouver.
-    // { url: base + "/gauntlet/" },
+    { url: base + "/gauntlet/" },
     { url: base + "/gauntlet/double-slash" },
     { url: base + "/gauntlet/duplicate-a" },
     { url: base + "/gauntlet/duplicate-b" },
