@@ -5,7 +5,7 @@ export const metadata = {
   description: 'Cette page traite des erreurs hreflang et de leur impact sur le SEO, en mettant en lumière un cas spécifique.',
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid',
-    languages: { 'fr_FR': 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid' },
+    languages: { 'fr-FR': 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid' },
   },
   openGraph: {
     type: 'article',
