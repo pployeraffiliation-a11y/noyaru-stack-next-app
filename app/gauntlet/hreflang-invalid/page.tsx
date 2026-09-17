@@ -5,7 +5,7 @@ export const metadata = {
   description: 'Découvrez le parcours d\'obstacles avec une anomalie hreflang invalid, une page unique pour comprendre cette situation spécifique.',
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid',
-    languages: { 'fr-FR': 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid' },
+    languages: { 'fr-FR': 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid', 'x-default': 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid' },
   },
   openGraph: {
     type: 'article',
