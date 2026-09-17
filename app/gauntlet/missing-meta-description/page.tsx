@@ -14,6 +14,7 @@ export const metadata = {
     description: 'Découvrez le parcours d\'obstacles Noyaru, une expérience unique et captivante pour tous les amateurs de défis.',
   },
   twitter: {
+    description: 'Découvrez le parcours d\'obstacles Noyaru, une expérience unique et captivante pour tous les amateurs de défis.',
     card: 'summary_large_image',
     title: 'Page de test du parcours d\'obstacles Noyaru',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
