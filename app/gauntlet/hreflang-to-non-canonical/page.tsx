@@ -4,6 +4,7 @@ export const metadata = {
   title: 'Page hreflang to non canonical du parcours d\'obstacles Noyaru',
   description: 'Découvrez le parcours d\'obstacles avec une anomalie hreflang non canonique, une page unique pour comprendre cette situation spécifique.',
   alternates: {
+    'x-default': 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-to-non-canonical',
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-to-non-canonical',
     languages: { 'fr': 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-to-non-canonical', 'en': 'https://noyaru-stack-next-app.netlify.app/gauntlet/canonical-relay' },
   },
