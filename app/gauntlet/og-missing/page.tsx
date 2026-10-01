@@ -6,6 +6,13 @@ export const metadata = {
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/og-missing',
   },
+  openGraph: {
+    title: 'Page de test du parcours d\'obstacles Noyaru',
+    description: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.',
+    type: 'website',
+    url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/og-missing',
+    images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
+  },
   twitter: {
     card: 'summary_large_image',
     title: 'Page de test du parcours d\'obstacles Noyaru',
