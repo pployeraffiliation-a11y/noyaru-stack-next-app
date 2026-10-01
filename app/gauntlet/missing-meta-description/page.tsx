@@ -15,6 +15,7 @@ export const metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Page de test du parcours d\'obstacles Noyaru',
+    description: 'Page du parcours d\'obstacles Noyaru dédiée au cas missing meta description.',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
 };
