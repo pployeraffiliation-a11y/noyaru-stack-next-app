@@ -1,6 +1,7 @@
 // FAMILLE VISEE : missing_title
 // aucun titre declare.
 export const metadata = {
+  title: 'Parcours Noyaru : page sans titre, anomalie missing title',
   description: 'Page « missing title » du parcours d\'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche.',
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/missing-title',
