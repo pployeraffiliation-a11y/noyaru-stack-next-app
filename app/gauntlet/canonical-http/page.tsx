@@ -4,7 +4,7 @@ export const metadata = {
   title: 'Parcours Noyaru : canonical http',
   description: 'Page « canonical http » du parcours d\'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche.',
   alternates: {
-    canonical: 'http://noyaru-stack-next-app.netlify.app/gauntlet/canonical-http',
+    canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/canonical-http',
   },
   openGraph: {
     type: 'article',
