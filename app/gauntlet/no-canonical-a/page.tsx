@@ -1,12 +1,12 @@
 // FAMILLE VISEE : duplicate_pages_without_canonical
 // jumelle de no-canonical-b, aucune des deux ne declare de canonical.
 export const metadata = {
-  title: 'Deux pages jumelles sans canonical declare',
+  title: 'Parcours Noyaru : page jumelle A sans canonical declare',
   description: 'Page A des jumelles sans canonical : contenu identique a sa soeur no-canonical-b, conçue pour declencher la detection des pages dupliquees sans balise',
   // description unique pour no-canonical-a
   openGraph: {
     type: 'article',
-    title: 'Deux pages jumelles sans canonical declare',
+    title: 'Parcours Noyaru : page jumelle A sans canonical declare',
     description: 'Page A des jumelles sans canonical : contenu identique a sa soeur no-canonical-b, conçue pour declencher la detection des pages dupliquees sans balise',
   // description unique pour no-canonical-a
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/no-canonical-a',
@@ -14,7 +14,7 @@ export const metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Deux pages jumelles sans canonical declare',
+    title: 'Parcours Noyaru : page jumelle A sans canonical declare',
     description: 'Page A des jumelles sans canonical : contenu identique a sa soeur no-canonical-b, conçue pour declencher la detection des pages dupliquees sans balise',
   // description unique pour no-canonical-a
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
