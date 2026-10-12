@@ -2,6 +2,7 @@
 // page noindex ne declarant aucune meta description.
 export const metadata = {
   title: 'Page de test du parcours d\'obstacles Noyaru',
+  description: 'Parcours d\'obstacles Noyaru — page noindex sans description : ce cas isole l\'anomalie de meta description manquante pour valider la detection automatique',
   robots: 'noindex, follow',
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/noindex-no-description',
