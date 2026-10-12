@@ -2,6 +2,7 @@
 // aucune meta description sur une page indexable.
 export const metadata = {
   title: 'Page de test du parcours d\'obstacles Noyaru',
+  description: 'Cette page du parcours traite le cas « missing meta description ». Elle sert à provoquer une anomalie et une seule dans le parcours d\'obstacles de la fixture.',
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/missing-meta-description',
   },
