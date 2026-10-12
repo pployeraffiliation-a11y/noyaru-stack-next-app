@@ -7,6 +7,7 @@ export const metadata = {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/missing-title',
   },
   openGraph: {
+    title: 'Parcours Noyaru : page sans titre, anomalie missing title',
     type: 'article',
     description: 'Page « missing title » du parcours d\'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche.',
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/missing-title',
