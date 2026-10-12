@@ -10,6 +10,7 @@ export const metadata = {
   openGraph: {
     type: 'article',
     title: 'Page de test du parcours d\'obstacles Noyaru',
+    description: 'Page noindex du parcours d\'obstacles Noyaru : aucune description déclarée initialement, pour déclencher la famille missing meta description et tester',
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/noindex-no-description',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
