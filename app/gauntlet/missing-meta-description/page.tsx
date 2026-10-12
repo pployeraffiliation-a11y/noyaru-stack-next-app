@@ -16,6 +16,7 @@ export const metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Parcours Noyaru : missing meta description',
+    description: 'Page « missing meta description » du parcours d\'obstacles : correcte partout sauf l\'absence de description, pour que seule cette famille se déclenche.',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
 };
