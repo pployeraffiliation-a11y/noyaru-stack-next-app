@@ -10,7 +10,7 @@ export const metadata = {
     type: 'article',
     title: 'Parcours Noyaru : canonical other',
     description: 'Page « canonical other » du parcours d\'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche.',
-    url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/canonical-other',
+    url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/missing-h1',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
   twitter: {
