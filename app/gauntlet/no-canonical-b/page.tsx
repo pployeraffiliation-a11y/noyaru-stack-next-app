@@ -2,18 +2,18 @@
 // jumelle de no-canonical-a.
 export const metadata = {
   title: 'Deux pages jumelles sans canonical declare',
-  description: 'Deux pages jumelles au contenu identique et sans canonical declare : le doublon que la famille des pages dupliquees doit trouver.',
+  description: 'Page no-canonical-b du parcours d\'obstacles : jumelle de no-canonical-a, sans balise canonical, pour declencher la detection des pages dupliquees.',
   openGraph: {
     type: 'article',
     title: 'Deux pages jumelles sans canonical declare',
-    description: 'Deux pages jumelles au contenu identique et sans canonical declare : le doublon que la famille des pages dupliquees doit trouver.',
+    description: 'Page no-canonical-b du parcours d\'obstacles : jumelle de no-canonical-a, sans balise canonical, pour declencher la detection des pages dupliquees.',
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/no-canonical-b',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Deux pages jumelles sans canonical declare',
-    description: 'Deux pages jumelles au contenu identique et sans canonical declare : le doublon que la famille des pages dupliquees doit trouver.',
+    description: 'Page no-canonical-b du parcours d\'obstacles : jumelle de no-canonical-a, sans balise canonical, pour declencher la detection des pages dupliquees.',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
 };
