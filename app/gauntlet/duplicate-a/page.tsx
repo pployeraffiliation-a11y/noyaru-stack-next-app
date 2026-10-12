@@ -1,7 +1,7 @@
 // FAMILLE VISEE : duplicate_titles + duplicate_meta_descriptions
 // jumelle de duplicate-b : meme titre ET meme description.
 export const metadata = {
-  title: 'Deux pages qui portent exactement le meme titre pour le test',
+  title: 'Gauntlet duplicate-a : page jumelle pour tester les doublons',
   description: 'Page gauntlet duplicate-a : cette page et sa jumelle partageaient la meme description pour tester la detection des doublons de meta.',
   // description unique pour duplicate-a — 140 chars environ
   alternates: {
@@ -9,7 +9,7 @@ export const metadata = {
   },
   openGraph: {
     type: 'article',
-    title: 'Deux pages qui portent exactement le meme titre pour le test',
+    title: 'Gauntlet duplicate-a : page jumelle pour tester les doublons',
     description: 'Page gauntlet duplicate-a : cette page et sa jumelle partageaient la meme description pour tester la detection des doublons de meta.',
   // description unique pour duplicate-a — 140 chars environ
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/duplicate-a',
@@ -17,7 +17,7 @@ export const metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Deux pages qui portent exactement le meme titre pour le test',
+    title: 'Gauntlet duplicate-a : page jumelle pour tester les doublons',
     description: 'Page gauntlet duplicate-a : cette page et sa jumelle partageaient la meme description pour tester la detection des doublons de meta.',
   // description unique pour duplicate-a — 140 chars environ
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
