@@ -15,6 +15,7 @@ export const metadata = {
   },
   twitter: {
     card: 'summary_large_image',
+    title: 'Parcours Noyaru : titre absent corrigé pour le test',
     description: 'Page « missing title » du parcours d\'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche.',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
