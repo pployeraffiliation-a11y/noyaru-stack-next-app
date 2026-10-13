@@ -12,6 +12,7 @@ export const metadata = {
     title: 'Parcours Noyaru : noindex no description',
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/noindex-no-description',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
+    description: 'Page « noindex no description » du parcours d\'obstacles : correcte partout sauf sur ce point précis, pour que seule la famille visée se déclenche.',
   },
   twitter: {
     card: 'summary_large_image',
