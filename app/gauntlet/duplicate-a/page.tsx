@@ -1,7 +1,7 @@
 // FAMILLE VISEE : duplicate_titles + duplicate_meta_descriptions
 // jumelle de duplicate-b : meme titre ET meme description.
 export const metadata = {
-  title: 'Deux pages qui portent exactement le meme titre pour le test',
+  title: 'Parcours Noyaru : duplicate-a avec titre rendu unique ici',
   description: 'Page « duplicate-a » du parcours d\'obstacles : elle partage son titre avec duplicate-b pour tester la detection des doublons de titres et de descriptions.',
 
   alternates: {
@@ -9,7 +9,7 @@ export const metadata = {
   },
   openGraph: {
     type: 'article',
-    title: 'Deux pages qui portent exactement le meme titre pour le test',
+    title: 'Parcours Noyaru : duplicate-a avec titre rendu unique ici',
     description: 'Page « duplicate-a » du parcours d\'obstacles : elle partage son titre avec duplicate-b pour tester la detection des doublons de titres et de descriptions.',
 
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/duplicate-a',
@@ -17,7 +17,7 @@ export const metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Deux pages qui portent exactement le meme titre pour le test',
+    title: 'Parcours Noyaru : duplicate-a avec titre rendu unique ici',
     description: 'Page « duplicate-a » du parcours d\'obstacles : elle partage son titre avec duplicate-b pour tester la detection des doublons de titres et de descriptions.',
 
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
