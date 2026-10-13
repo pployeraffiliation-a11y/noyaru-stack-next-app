@@ -6,6 +6,13 @@ export const metadata = {
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/og-missing',
   },
+  openGraph: {
+    title: 'Parcours Noyaru : og missing',
+    description: 'Page « og missing » du parcours d\'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche.',
+    type: 'website',
+    url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/og-missing',
+    images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
+  },
   twitter: {
     card: 'summary_large_image',
     title: 'Parcours Noyaru : og missing',
