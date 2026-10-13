@@ -5,7 +5,7 @@ export const metadata = {
   description: 'Page « hreflang invalid » du parcours d\'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche.',
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid',
-    languages: { 'fr_FR': 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid' },
+    languages: { 'fr-FR': 'https://noyaru-stack-next-app.netlify.app/gauntlet/hreflang-invalid' },
   },
   openGraph: {
     type: 'article',
