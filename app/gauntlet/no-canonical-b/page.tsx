@@ -1,13 +1,16 @@
 // FAMILLE VISEE : duplicate_pages_without_canonical
 // jumelle de no-canonical-a.
 export const metadata = {
+  alternates: {
+    canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/no-canonical-a',
+  },
   title: 'Deux pages jumelles sans canonical declare',
   description: 'Deux pages jumelles au contenu identique et sans canonical declare : le doublon que la famille des pages dupliquees doit trouver.',
   openGraph: {
     type: 'article',
     title: 'Deux pages jumelles sans canonical declare',
     description: 'Deux pages jumelles au contenu identique et sans canonical declare : le doublon que la famille des pages dupliquees doit trouver.',
-    url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/no-canonical-b',
+    url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/no-canonical-a',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
   twitter: {
