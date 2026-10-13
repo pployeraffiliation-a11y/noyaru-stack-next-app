@@ -1,6 +1,9 @@
 // FAMILLE VISEE : duplicate_pages_without_canonical
 // jumelle de no-canonical-b, aucune des deux ne declare de canonical.
 export const metadata = {
+  alternates: {
+    canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/no-canonical-a',
+  },
   title: 'Deux pages jumelles sans canonical declare',
   description: 'Page no-canonical-a du parcours d\'obstacles : jumelle de no-canonical-b, aucune ne declare de canonical, ce qui provoque la detection de pages dupliquees.',
   openGraph: {
