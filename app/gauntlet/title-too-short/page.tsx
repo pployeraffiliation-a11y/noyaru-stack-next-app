@@ -1,7 +1,7 @@
 // FAMILLE VISEE : title_too_short
 // titre de moins de 15 caracteres.
 export const metadata = {
-  title: 'Test',
+  title: 'Parcours d\'obstacles : cas title too short – page de test SEO',
   description: 'Page « title too short » du parcours d\'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche.',
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/title-too-short',
