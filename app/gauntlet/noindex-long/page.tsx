@@ -1,7 +1,7 @@
 // FAMILLE VISEE : title_too_long_not_indexable + meta_description_too_long_not_indexable
 // page noindex portant un titre et une description hors plafond.
 export const metadata = {
-  title: 'Un titre volontairement beaucoup trop long pour la fenetre visee par le correcteur, ecrit pour depasser nettement le plafond',
+  title: 'Un titre volontairement trop long pour dépasser le plafond SEO',
   description: 'Une meta description volontairement trop longue, dépassant le plafond retenu par le crawler, pour déclencher la famille des descriptions trop longues.',
   robots: 'noindex, follow',
   alternates: {
