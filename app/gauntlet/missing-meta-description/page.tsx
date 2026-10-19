@@ -9,6 +9,7 @@ export const metadata = {
   openGraph: {
     type: 'article',
     title: 'Parcours Noyaru : missing meta description',
+    description: 'Page « missing meta description » du parcours d\'obstacles Noyaru : correcte partout sauf l\'absence de meta description à corriger.',
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/missing-meta-description',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
