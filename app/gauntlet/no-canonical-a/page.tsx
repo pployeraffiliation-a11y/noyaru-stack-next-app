@@ -4,18 +4,18 @@ export const metadata = {
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/no-canonical-a',
   },
-  title: 'Deux pages jumelles sans canonical declare',
+  title: 'Parcours Noyaru : pages jumelles sans canonical – variante A',
   description: 'Page no-canonical-a du parcours : contenu jumeau sans balise canonical, variante A, pour declencher la famille des pages dupliquees sans canonical.',
   openGraph: {
     type: 'article',
-    title: 'Deux pages jumelles sans canonical declare',
+    title: 'Parcours Noyaru : pages jumelles sans canonical – variante A',
     description: 'Page no-canonical-a du parcours : contenu jumeau sans balise canonical, variante A, pour declencher la famille des pages dupliquees sans canonical.',
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/no-canonical-a',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Deux pages jumelles sans canonical declare',
+    title: 'Parcours Noyaru : pages jumelles sans canonical – variante A',
     description: 'Page no-canonical-a du parcours : contenu jumeau sans balise canonical, variante A, pour declencher la famille des pages dupliquees sans canonical.',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
