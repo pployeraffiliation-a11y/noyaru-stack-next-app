@@ -17,6 +17,7 @@ export const metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Parcours Noyaru : noindex no description',
+    description: 'Page « noindex no description » du parcours d\'obstacles : correcte partout sauf sur ce point précis, pour déclencher uniquement la famille visée.',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
 };
