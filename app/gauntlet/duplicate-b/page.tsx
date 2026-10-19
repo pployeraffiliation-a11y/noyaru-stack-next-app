@@ -2,21 +2,21 @@
 // jumelle de duplicate-a.
 export const metadata = {
   title: 'Deux pages qui portent exactement le meme titre pour le test',
-  description: 'Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons.',
+  description: 'Page « duplicate-b » du parcours d\'obstacles : jumelle de duplicate-a, elle sert à valider la détection des meta descriptions dupliquées entre deux pages',
   alternates: {
     canonical: 'https://noyaru-stack-next-app.netlify.app/gauntlet/duplicate-b',
   },
   openGraph: {
     type: 'article',
     title: 'Deux pages qui portent exactement le meme titre pour le test',
-    description: 'Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons.',
+    description: 'Page « duplicate-b » du parcours d\'obstacles : jumelle de duplicate-a, elle sert à valider la détection des meta descriptions dupliquées entre deux pages',
     url: 'https://noyaru-stack-next-app.netlify.app/gauntlet/duplicate-b',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Deux pages qui portent exactement le meme titre pour le test',
-    description: 'Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons.',
+    description: 'Page « duplicate-b » du parcours d\'obstacles : jumelle de duplicate-a, elle sert à valider la détection des meta descriptions dupliquées entre deux pages',
     images: ['https://noyaru-stack-next-app.netlify.app/og.png'],
   },
 };
